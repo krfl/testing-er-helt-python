@@ -1,8 +1,13 @@
 # Testing er helt Python
 Et repo med eksempler fra meetup med Norsk Testforum
 
+## Installer python
+Installer Python 3
+
+
 ## Opprett et nytt virtuelt miljø
-    python3 -m venv meetup
+    python -m venv meetup
+    
 
 
 ## Aktiver det virtuelle miljøet

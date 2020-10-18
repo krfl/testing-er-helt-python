@@ -38,6 +38,7 @@ For at dette skal virke må du gjøre følgende før du kjører eksemplene
 * Start demosiden i /website/ mappen i et nytt shell. Husk å aktivere det virtuelle miljøet.
 
 
+
     python run.py
 
 

@@ -1,27 +1,27 @@
 # Testing er helt Python
-Et repo med eksempler fra meetup med Norsk Testforum
+Et repo med eksempler fra testpub med Norsk Testforum
 
 ## Installer python
 Installer Python 3
 
 
 ## Opprett et nytt virtuelt miljø
-    python -m venv meetup
+    python -m venv testpub
     
 
 
 ## Aktiver det virtuelle miljøet
 Linux/Mac
 
-    source meetup/bin/activate
+    source testpub/bin/activate
 
 Windows
 
-    meetup/scripts/activate.bat
+    testpub/scripts/activate.bat
 
 Windows PowerShell
 
-    meetup/scripts/activate.ps1
+    testpub/scripts/activate.ps1
 
 
 ## Installer alle nødvendige pakker
@@ -41,7 +41,6 @@ For at dette skal virke må du gjøre følgende før du kjører eksemplene
 
 * Installer firefox og geckodriver, akkurat som når man bruker selenium
 * Start demosiden i /website/ mappen i et nytt shell. Husk å aktivere det virtuelle miljøet.
-
 
 
     python run.py
